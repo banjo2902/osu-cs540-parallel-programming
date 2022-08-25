@@ -1,0 +1,30 @@
+MultArrayAdd:
+Num_elements,   Local_Size,    Performance
+   1048576,	   8,    131072	,	     0.084 GigaMultsPerSecond
+   1048576,	  16,     65536	,	     2.278 GigaMultsPerSecond
+   1048576,	  32,     32768	,	     2.502 GigaMultsPerSecond
+   1048576,	  64,     16384	,	     3.842 GigaMultsPerSecond
+   1048576,	 128,      8192	,	     2.612 GigaMultsPerSecond
+   1048576,	 256,      4096	,	     0.179 GigaMultsPerSecond
+   1048576,	 512,      2048	,	     2.563 GigaMultsPerSecond
+   2097152,	   8,    262144	,	     2.131 GigaMultsPerSecond
+   2097152,	  16,    131072	,	     3.176 GigaMultsPerSecond
+   2097152,	  32,     65536	,	     4.848 GigaMultsPerSecond
+   2097152,	  64,     32768	,	     4.858 GigaMultsPerSecond
+   2097152,	 128,     16384	,	     4.095 GigaMultsPerSecond
+   2097152,	 256,      8192	,	     4.498 GigaMultsPerSecond
+   2097152,	 512,      4096	,	     4.479 GigaMultsPerSecond
+   4194304,	   8,    524288	,	     2.329 GigaMultsPerSecond
+   4194304,	  16,    262144	,	     3.634 GigaMultsPerSecond
+   4194304,	  32,    131072	,	     5.537 GigaMultsPerSecond
+   4194304,	  64,     65536	,	     6.354 GigaMultsPerSecond
+   4194304,	 128,     32768	,	     6.532 GigaMultsPerSecond
+   4194304,	 256,     16384	,	     7.217 GigaMultsPerSecond
+   4194304,	 512,      8192	,	     7.238 GigaMultsPerSecond
+   8388608,	   8,   1048576	,	     2.658 GigaMultsPerSecond
+   8388608,	  16,    524288	,	     4.854 GigaMultsPerSecond
+   8388608,	  32,    262144	,	     7.146 GigaMultsPerSecond
+   8388608,	  64,    131072	,	     8.827 GigaMultsPerSecond
+   8388608,	 128,     65536	,	     9.027 GigaMultsPerSecond
+   8388608,	 256,     32768	,	     9.934 GigaMultsPerSecond
+   8388608,	 512,     16384	,	     9.221 GigaMultsPerSecond

@@ -1,0 +1,30 @@
+MultArrayReduction
+Num_elements,   Local_Size,    Performance
+   1048576,	   8,	     1.070 GigaMultsPerSecond
+   1048576,	  16,	     1.384 GigaMultsPerSecond
+   1048576,	  32,	     1.663 GigaMultsPerSecond
+   1048576,	  64,	     1.993 GigaMultsPerSecond
+   1048576,	 128,	     2.191 GigaMultsPerSecond
+   1048576,	 256,	     2.141 GigaMultsPerSecond
+   1048576,	 512,	     2.005 GigaMultsPerSecond
+   2097152,	   8,	     1.338 GigaMultsPerSecond
+   2097152,	  16,	     1.863 GigaMultsPerSecond
+   2097152,	  32,	     2.447 GigaMultsPerSecond
+   2097152,	  64,	     3.301 GigaMultsPerSecond
+   2097152,	 128,	     3.734 GigaMultsPerSecond
+   2097152,	 256,	     3.528 GigaMultsPerSecond
+   2097152,	 512,	     3.326 GigaMultsPerSecond
+   4194304,	   8,	     1.507 GigaMultsPerSecond
+   4194304,	  16,	     2.284 GigaMultsPerSecond
+   4194304,	  32,	     3.311 GigaMultsPerSecond
+   4194304,	  64,	     4.612 GigaMultsPerSecond
+   4194304,	 128,	     5.163 GigaMultsPerSecond
+   4194304,	 256,	     4.966 GigaMultsPerSecond
+   4194304,	 512,	     4.657 GigaMultsPerSecond
+   8388608,	   8,	     1.610 GigaMultsPerSecond
+   8388608,	  16,	     2.516 GigaMultsPerSecond
+   8388608,	  32,	     4.011 GigaMultsPerSecond
+   8388608,	  64,	     5.704 GigaMultsPerSecond
+   8388608,	 128,	     7.875 GigaMultsPerSecond
+   8388608,	 256,	     6.880 GigaMultsPerSecond
+   8388608,	 512,	     0.969 GigaMultsPerSecond
